@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: c6e10ff469017aa419412e789afc1c90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8028752755064673455
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_0
+  - first:
+      213: 1289440387216642127
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_1
+  - first:
+      213: -6409970601132538974
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_2
+  - first:
+      213: -372059396675706534
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_3
+  - first:
+      213: -876763120855857614
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_4
+  - first:
+      213: -7030334234997715768
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_5
+  - first:
+      213: -7028243743047347413
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_6
+  - first:
+      213: 1472586163075205988
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_7
+  - first:
+      213: 5335455011572767950
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_8
+  - first:
+      213: -4487450051560643045
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_9
+  - first:
+      213: -3871876916527021160
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_10
+  - first:
+      213: 2770433425470690426
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_11
+  - first:
+      213: -787269701218799348
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_12
+  - first:
+      213: -975038355304637817
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_13
+  - first:
+      213: 6784706063484969621
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_14
+  - first:
+      213: 8063736823174321546
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_15
+  - first:
+      213: 1231773192070968410
+    second: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+      - Mayor Scuttlebutt_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 168
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa49113b71cdb6f60800000000000000
+      internalID: 8028752755064673455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40171f433305e110800000000000000
+      internalID: 1289440387216642127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34cc223b53b07a0800000000000000
+      internalID: -6409970601132538974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 122
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516cc133fd26daf0800000000000000
+      internalID: -372059396675706534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236493d369c15d3f0800000000000000
+      internalID: -876763120855857614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 121
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc81b6f24c3f6e90800000000000000
+      internalID: -7030334234997715768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b231dcc8d89a67e90800000000000000
+      internalID: -7028243743047347413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 61
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc04f205daf6410800000000000000
+      internalID: 1472586163075205988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 61
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc5fd780185b0a40800000000000000
+      internalID: 5335455011572767950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 61
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166b6124ff59b1c0800000000000000
+      internalID: -4487450051560643045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 61
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934f506574544ac0800000000000000
+      internalID: -3871876916527021160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749c07a58e827620800000000000000
+      internalID: 2770433425470690426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01fc6cb06e0315f0800000000000000
+      internalID: -787269701218799348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a9fa528c7f772f0800000000000000
+      internalID: -975038355304637817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e573c73e182e50800000000000000
+      internalID: 6784706063484969621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85da8bcae528ef60800000000000000
+      internalID: 8063736823174321546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters
+        - Mayor Scuttlebutt_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543d352133281110800000000000000
+      internalID: 1231773192070968410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_0: 8028752755064673455
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_1: 1289440387216642127
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_10: -3871876916527021160
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_11: 2770433425470690426
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_12: -787269701218799348
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_13: -975038355304637817
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_14: 6784706063484969621
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_15: 8063736823174321546
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_16: 1231773192070968410
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_2: -6409970601132538974
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_3: -372059396675706534
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_4: -876763120855857614
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_5: -7030334234997715768
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_6: -7028243743047347413
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_7: 1472586163075205988
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_8: 5335455011572767950
+      Game Boy Advance - Shantae Advance_ Risky Revolution - Non-Playable Characters - Mayor Scuttlebutt_9: -4487450051560643045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
